@@ -1,4 +1,4 @@
-package Test.SeleniumScripts_Latest;
+package BasicSeleniumScripts;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 

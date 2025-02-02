@@ -1,4 +1,4 @@
-package Test.SeleniumScripts_Latest;
+package BasicSeleniumScripts;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

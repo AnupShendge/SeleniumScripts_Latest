@@ -6,6 +6,6 @@ public class BaseClass {
 	
 		
 	//launch the chrome
-    static WebDriver driver =new ChromeDriver();
+    protected static WebDriver driver =new ChromeDriver();
 
 }
